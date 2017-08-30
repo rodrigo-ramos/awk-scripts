@@ -1,0 +1,3 @@
+Este es un ejemplo de las cosas que puedes hacer con las diferentes funciones de AWK y su sorprendente facilidad.
+
+No espero que sea la ultima vez que encuentre uso de estas funciones.
